@@ -5,7 +5,7 @@ Please find a full list of publications on our lab's [website](https://uni-tuebi
 
 ## VSS 2023
 
-* [Klein, Brendel, & Wichmann](/vss2023_klein_brendel_wichmann.pdf**)
+* [Klein, Brendel, & Wichmann](/vss2023_klein_brendel_wichmann.pdf)
 * [Künstle & Wichmann](/vss2023_kuenstle_wichmann.pdf), using [psychopy-pixx](https://github.com/wichmann-lab/psychopy-pixx) and [cblearn](https://github.com/cblearn/cblearn)
 ## License 
 
