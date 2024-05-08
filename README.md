@@ -7,6 +7,12 @@ Please find a full list of publications on our lab's [website](https://uni-tuebi
 
 * [Klein, Brendel, & Wichmann](/vss2023_klein_brendel_wichmann.pdf)
 * [Künstle & Wichmann](/vss2023_kuenstle_wichmann.pdf), using [psychopy-pixx](https://github.com/wichmann-lab/psychopy-pixx) and [cblearn](https://github.com/cblearn/cblearn)
+
+## ICLR 2024: Workshop on Representational Alignment (Re-Align)
+
+* [Ahlert, Klein, Wichmann, Geirhos](/iclr2024_ahlert_klein_wichmann_geirhos.pdf)
+
+
 ## License 
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />
