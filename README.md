@@ -5,12 +5,16 @@ Please find a full list of publications on our lab's [website](https://uni-tuebi
 
 ## VSS 2023
 
-* [Klein, Brendel, & Wichmann](/vss2023_klein_brendel_wichmann.pdf)
+* [Klein, Brendel & Wichmann](/vss2023_klein_brendel_wichmann.pdf)
 * [Künstle & Wichmann](/vss2023_kuenstle_wichmann.pdf), using [psychopy-pixx](https://github.com/wichmann-lab/psychopy-pixx) and [cblearn](https://github.com/cblearn/cblearn)
 
 ## ICLR 2024: Workshop on Representational Alignment (Re-Align)
 
 * [Ahlert, Klein, Wichmann, Geirhos](/iclr2024_ahlert_klein_wichmann_geirhos.pdf)
+
+## IMPRS-IS Bootcamp 2024
+
+* [Klein, Brendel & Wichmann](/imprs24_klein_brendel_wichmann.pdf)
 
 
 ## License 
